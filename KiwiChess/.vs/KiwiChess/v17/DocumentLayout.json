@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ChessOfMythology\\KiwiChess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|D:\\ChessOfMythology\\KiwiChess\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|solutionrelative:GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|D:\\ChessOfMythology\\KiwiChess\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|solutionrelative:GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|D:\\ChessOfMythology\\KiwiChess\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|solutionrelative:Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|D:\\ChessOfMythology\\KiwiChess\\Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|solutionrelative:Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|D:\\ChessOfMythology\\KiwiChess\\Prefabs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8440043-83C8-4D86-94B2-98F152DA2E16}|KiwiChess.vcxproj|solutionrelative:Prefabs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "D:\\ChessOfMythology\\KiwiChess\\GameManager.cpp",
+              "RelativeDocumentMoniker": "GameManager.cpp",
+              "ToolTip": "D:\\ChessOfMythology\\KiwiChess\\GameManager.cpp",
+              "RelativeToolTip": "GameManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T16:24:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "D:\\ChessOfMythology\\KiwiChess\\GameManager.h",
+              "RelativeDocumentMoniker": "GameManager.h",
+              "ToolTip": "D:\\ChessOfMythology\\KiwiChess\\GameManager.h",
+              "RelativeToolTip": "GameManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-14T16:23:59.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prefabs.h",
+              "DocumentMoniker": "D:\\ChessOfMythology\\KiwiChess\\Prefabs.h",
+              "RelativeDocumentMoniker": "Prefabs.h",
+              "ToolTip": "D:\\ChessOfMythology\\KiwiChess\\Prefabs.h",
+              "RelativeToolTip": "Prefabs.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-14T12:35:45.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chess.cpp",
+              "DocumentMoniker": "D:\\ChessOfMythology\\KiwiChess\\Chess.cpp",
+              "RelativeDocumentMoniker": "Chess.cpp",
+              "ToolTip": "D:\\ChessOfMythology\\KiwiChess\\Chess.cpp",
+              "RelativeToolTip": "Chess.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T09:26:09.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chess.h",
+              "DocumentMoniker": "D:\\ChessOfMythology\\KiwiChess\\Chess.h",
+              "RelativeDocumentMoniker": "Chess.h",
+              "ToolTip": "D:\\ChessOfMythology\\KiwiChess\\Chess.h",
+              "RelativeToolTip": "Chess.h",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAiwGoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T14:31:23.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
